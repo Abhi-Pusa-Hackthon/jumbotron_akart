@@ -1,0 +1,31 @@
+.login_div{
+  text-align: center;
+  height:30%;
+  padding:40px;
+  background-color: #b4b4b4;
+}
+
+.login_div input{
+  padding:7px;
+  margin:10px;
+}
+table{
+  border: 1px solid black;
+  padding:5px;
+  width:100%;
+}
+td{
+  border: 1px solid black;
+}
+.status{
+  padding:5px;
+}
+
+.arc text {
+  font: 25px Arial;
+  text-anchor: middle;
+}
+
+.arc path {
+  stroke: #fff;
+}
